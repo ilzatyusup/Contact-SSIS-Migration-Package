@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="28"
-  DTS:VersionGUID="{28D033CD-8C8D-4CCC-B095-C98B63A3C094}">
+  DTS:VersionBuild="29"
+  DTS:VersionGUID="{DD650FE2-17B0-4626-BC58-18F8E69634DB}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -26,7 +26,7 @@
           ConnectionString="AuthenticationType=OnlineFederation;ServiceEndpoint=Soap2011;DiscoveryServerUrl=https://disco.crm.dynamics.com;UserName=demo@frequencyfoundry.com;Domain=;OrganizationName=&quot;Mississauga Prosper Dev Instance&quot;;CrmServerUrl=https://foundrydev4.api.crm.dynamics.com;ProxyUsername=;ProxyMode=NoProxy;ProxyServer=;ProxyServerPort=0;BypassProxyOnLocal=False;HomeRealmUri=;ServiceTimeout=120;RetryOnIntermittentErrors=True;IgnoreCertificateErrors=False">
           <Password
             Sensitive="1" xmlns="www.microsoft.com/SqlServer/Dts"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlMqz/rgkyESdSh/ryRnxFgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADOnf9WBG0c7j6px5bplLBsY6RSB3BTowoocvpk2GcXVAAAAAAOgAAAAAIAACAAAACiOXoZaPkwv4RpV2h7U8CEj3gonmg4J4T1iAv30tuw5SAAAABNJwEFVkfupRN3RZlVtr2O1+g4l6RVk4cG7SyDlJKP9kAAAAAkVFKsDwqoP63YvmaB6t8d8evr6TpRLYX9GcprecwfEh8MmrTnk26DmvjjViRdZzwwLHCT8X9dLbBkL9V9dFdj</Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlMqz/rgkyESdSh/ryRnxFgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABhK0xPTGNGbhChUP/5tg5tzSenproK0uJ3+BZ/5EtgqAAAAAAOgAAAAAIAACAAAADc13HgXMuzrxAiaSwvoEoLy3mHn+Gya86D3kUM7yvRwiAAAAAINMpaOhyT073iGzVyXrMYztHumexF6EdmhBbCaj5OZUAAAADM1b55/PrplHW5gYAjZMH5GqlC/wVax0RjVW9MIaaNcILmF8rrgPaO03WU+BEhcQu0zeDN73SiCdRTlsXRssBo</Password>
         </CrmConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -8713,7 +8713,7 @@
         <NodeLayout
           Size="229,42"
           Id="Package\Contact Data Flow Task\CASL Status OptionSet Mapping"
-          TopLeft="163,239" />
+          TopLeft="164,238" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
